@@ -202,6 +202,10 @@ Estudar Python com foco em Back-end, utilizando os cursos da _Hashtag Programaç
 - https://exercism.io
 - https://pramp.com
 - https://devhire.io
+- https://leetcode.com
+- https://datacamp.com
+- https://www.w3schools.com/
+- https://pythonchallenge.com
 
 ---
 
