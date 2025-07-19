@@ -39,7 +39,7 @@ Estudar Python com foco em **Análise de Dados** voltada ao **mercado financeiro
 ### ✅ Semana 1 – Introdução à Programação
 - [x] Curso: Hashtag - Módulo 1
 - [x] Conceitos: Variáveis, entrada/saída
-- [ ] Projeto: 🧮 Calculadora CLI
+- [x] Projeto: 🧮 Calculadora CLI
 
 ### ✅ Semana 2 – Condicionais e Laços
 - [ ] Curso: Hashtag - Módulo 2
