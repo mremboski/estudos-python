@@ -77,7 +77,7 @@ Digite o segundo número: 6
 ## 👨‍💻 Autor
 
 Desenvolvido por **Michel Remboski**  
-Parte do [Cronograma Completo de Estudos em Python](https://github.com/mremboski/estudos-python/tree/main/Projetos/Semana_1) 🚀
+Parte do [Cronograma Completo de Estudos em Python](https://github.com/mremboski/estudos-python/) 🚀
 
 ---
 
