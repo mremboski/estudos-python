@@ -47,9 +47,9 @@ Estudar Python com foco em Back-end, utilizando os cursos da _Hashtag Programaç
 
 ### ✅ Semana 1 – Introdução à Programação com Python
 
-- [ ] Curso: Hashtag - Módulo 1
-- [ ] Conceitos: Variáveis, entrada/saída, tipos primitivos
-- [ ] Prática: Exercism, HackerRank
+- [x] Curso: Hashtag - Módulo 1
+- [x] Conceitos: Variáveis, entrada/saída, tipos primitivos
+- [x] Prática: Exercism, HackerRank
 - [ ] Projeto: 🧮 Calculadora CLI
 
 ### ✅ Semana 2 – Condicionais e Laços
