@@ -161,6 +161,14 @@ Estudar Python com foco em **Análise de Dados** voltada ao **mercado financeiro
 
 ---
 
+## 📊 Link para biblioteca
+
+- https://libraries.io/pypi
+- https://github.com/vinta/awesome-python
+- https://pypi.org/
+
+---
+
 ## 🧪 Projetos sugeridos
 
 - Calculadora CLI
