@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-Estudar Python com foco em **Análise de Dados** voltada ao **mercado financeiro**, utilizando os cursos da _Hashtag Programação_ e _Alura_, com projetos práticos e portfólio para garantir uma vaga até **dezembro de 2025**.
+Estudar Python com foco em **Análise de Dados** voltada ao **Mercado Financeiro**, utilizando os cursos da _Hashtag Programação_ e _Alura_, com projetos práticos e portfólio para garantir uma vaga até **dezembro de 2025**.
 
 ---
 
